@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b34fb3b9.chunk.css",
-    "main.js": "/static/js/main.c102b0e0.chunk.js",
-    "main.js.map": "/static/js/main.c102b0e0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f654a5ba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f654a5ba.js.map",
-    "static/css/2.94f0b22b.chunk.css": "/static/css/2.94f0b22b.chunk.css",
-    "static/js/2.adc054d1.chunk.js": "/static/js/2.adc054d1.chunk.js",
-    "static/js/2.adc054d1.chunk.js.map": "/static/js/2.adc054d1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4d689944a2dda16f2fd0c7b8d8026ff4.js": "/precache-manifest.4d689944a2dda16f2fd0c7b8d8026ff4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.94f0b22b.chunk.css.map": "/static/css/2.94f0b22b.chunk.css.map",
-    "static/css/main.b34fb3b9.chunk.css.map": "/static/css/main.b34fb3b9.chunk.css.map",
-    "static/js/2.adc054d1.chunk.js.LICENSE.txt": "/static/js/2.adc054d1.chunk.js.LICENSE.txt"
+    "main.css": "/json-pretty-print-online/static/css/main.b34fb3b9.chunk.css",
+    "main.js": "/json-pretty-print-online/static/js/main.ef2ca847.chunk.js",
+    "main.js.map": "/json-pretty-print-online/static/js/main.ef2ca847.chunk.js.map",
+    "runtime-main.js": "/json-pretty-print-online/static/js/runtime-main.f831f336.js",
+    "runtime-main.js.map": "/json-pretty-print-online/static/js/runtime-main.f831f336.js.map",
+    "static/css/2.94f0b22b.chunk.css": "/json-pretty-print-online/static/css/2.94f0b22b.chunk.css",
+    "static/js/2.e96352a3.chunk.js": "/json-pretty-print-online/static/js/2.e96352a3.chunk.js",
+    "static/js/2.e96352a3.chunk.js.map": "/json-pretty-print-online/static/js/2.e96352a3.chunk.js.map",
+    "index.html": "/json-pretty-print-online/index.html",
+    "precache-manifest.ab2b08fd4c583aaabb460e23235dc618.js": "/json-pretty-print-online/precache-manifest.ab2b08fd4c583aaabb460e23235dc618.js",
+    "service-worker.js": "/json-pretty-print-online/service-worker.js",
+    "static/css/2.94f0b22b.chunk.css.map": "/json-pretty-print-online/static/css/2.94f0b22b.chunk.css.map",
+    "static/css/main.b34fb3b9.chunk.css.map": "/json-pretty-print-online/static/css/main.b34fb3b9.chunk.css.map",
+    "static/js/2.e96352a3.chunk.js.LICENSE.txt": "/json-pretty-print-online/static/js/2.e96352a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f654a5ba.js",
+    "static/js/runtime-main.f831f336.js",
     "static/css/2.94f0b22b.chunk.css",
-    "static/js/2.adc054d1.chunk.js",
+    "static/js/2.e96352a3.chunk.js",
     "static/css/main.b34fb3b9.chunk.css",
-    "static/js/main.c102b0e0.chunk.js"
+    "static/js/main.ef2ca847.chunk.js"
   ]
 }
