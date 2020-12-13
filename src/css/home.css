@@ -1,0 +1,10 @@
+.form-input {
+    min-height: 50vh; 
+    max-height: 100vh;
+}
+
+.code-output {
+    min-height: 50vh;
+    max-height: 50vh;
+    overflow-y: auto;
+}
